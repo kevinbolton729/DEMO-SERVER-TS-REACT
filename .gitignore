@@ -3,7 +3,6 @@ npm-debug.log
 node_modules/
 coverage/
 .idea/
-run/
 logs/
 public/
 .DS_Store
@@ -13,9 +12,3 @@ public/
 *.lock
 *.js
 
-app/**/*.js
-test/**/*.js
-config/**/*.js
-app/**/*.map
-test/**/*.map
-config/**/*.map

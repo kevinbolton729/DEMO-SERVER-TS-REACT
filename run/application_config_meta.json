@@ -1,0 +1,292 @@
+{
+  "keys": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "port": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+      "hostname": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+      "path": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "credentials": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "allowMethods": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "allowHeaders": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js"
+  },
+  "middleware": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+  "gzip": {
+    "threshold": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js"
+  },
+  "compress": {
+    "threshold": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js"
+  },
+  "mongoose": {
+    "url": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "options": {
+      "user": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+      "pass": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+      "useSession": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "onerror": {
+    "all": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\config\\config.default.js",
+    "errorPageUrl": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "private": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "crypto": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "gm": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "image-size": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "jsonwebtoken": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "koa-compress": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "koa-is-json": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "koa-jwt": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "koa-multer": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "moment": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "quill-delta-to-html": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "util": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "webstorm-disable-index": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "stop": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "cov": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "ci": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "autod": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js",
+  "clusterClient": {
+    "responseTimeout": "D:\\WebSite\\WebRoot\\MyReact\\yuserver\\DEMO-SERVER-TS-REACT\\node_modules\\egg\\config\\config.default.js"
+  }
+}
