@@ -4,10 +4,8 @@ node_modules/
 coverage/
 .idea/
 logs/
-public/
 .DS_Store
 .vscode
 *.log
 *.swp
-*.lock
 
